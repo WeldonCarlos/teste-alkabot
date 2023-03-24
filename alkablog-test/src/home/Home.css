@@ -1,0 +1,57 @@
+
+.titulo__ultimos__poster{
+    font-size: 20px;
+    margin-bottom: 1.7rem;
+    text-transform: uppercase;
+    text-align: center;
+    word-spacing: 7px;
+    
+    
+}
+.post{
+    border-bottom: 1px solid #777;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.2rem;
+  
+
+}
+
+.nome__post, .descricao__pos{
+
+    margin-bottom: 0.7rem;
+}
+
+.nome__post{
+    font-size: 18px;
+}
+
+.nome__post::first-letter{
+    text-transform: uppercase;
+
+}
+
+.descricao__post{
+    font-size: 14px;
+}
+.botao{
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 1rem;
+    color: #0e1217;
+    cursor: pointer;
+    font-size: 12px;
+    margin-top: 1.2rem;
+    max-width: 65px;
+    opacity: 1;
+    padding: 0.2rem 0.4rem;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.botao:hover{
+    color: #fff;
+    background-color: #0e1217;
+}
+

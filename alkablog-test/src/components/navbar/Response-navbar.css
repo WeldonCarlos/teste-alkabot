@@ -1,0 +1,189 @@
+@media screen and (max-width: 240px) {
+    
+    .navbar{
+
+        align-items: center;
+        background-color: #17191f;
+        display: flex;
+        justify-content: space-between;
+        padding: 0.7rem 1rem;
+        
+    }
+    .navbar h2{
+        font-size: 12px;
+    
+    }
+    .navbar h2:hover{
+        color: #fff;
+    }
+    
+    .home-nav{
+       display: none;
+    }
+    
+    .navbar ul{
+        display: flex;
+        gap: 1rem;
+    }
+    
+    
+    
+ 
+
+
+
+}
+@media screen and (min-width: 720px) {
+    
+    .navbar{
+
+        align-items: center;
+        background-color: #17191f;
+        display: flex;
+        justify-content: space-between;
+        padding: 1.5rem 1.5rem;
+        
+    }
+    .navbar h2{
+        font-size: 19px;
+    
+    }
+  
+    
+    .home-nav{
+        font-size: 16px;
+    }
+    
+  
+    
+  
+
+
+
+
+
+}
+
+@media screen and (min-width: 1024px) {
+    
+    .navbar{
+
+        align-items: center;
+        background-color: #17191f;
+        display: flex;
+        justify-content: space-between;
+        padding: 1.8rem 1.8rem;
+        
+    }
+    .navbar h2{
+        font-size: 22px;
+    
+    }
+   
+    .home-nav{
+        font-size: 18px;
+    }
+    
+    
+   
+
+}
+
+@media screen and (min-width: 1200px) {
+    
+    .navbar{
+
+        align-items: center;
+        background-color: #17191f;
+        display: flex;
+        justify-content: space-between;
+        padding: 1.8rem 1.8rem;
+        
+    }
+    .navbar h2{
+        font-size: 23px;
+    
+    }
+   
+    .home-nav{
+        font-size: 19px;
+    }
+    
+    
+  
+
+}
+
+@media screen and (min-width: 1360px) {
+    
+    .navbar{
+
+        align-items: center;
+        background-color: #17191f;
+        display: flex;
+        justify-content: space-between;
+        padding: 1.9 1.9rem;
+        
+    }
+    .navbar h2{
+        font-size: 24px;
+    
+    }
+   
+    .home-nav{
+        font-size: 20px;
+    }
+    
+    
+    
+
+}
+
+@media screen and (min-width: 1920px) {
+    
+    .navbar{
+
+        align-items: center;
+        background-color: #17191f;
+        display: flex;
+        justify-content: space-between;
+        padding: 2rem 2rem;
+        
+    }
+    .navbar h2{
+        font-size:29px;
+    
+    }
+   
+    .home-nav{
+        font-size: 26px;
+    }
+    
+    
+   
+
+}
+@media screen and (min-width: 2300px) {
+    
+    .navbar{
+
+        align-items: center;
+        background-color: #17191f;
+        display: flex;
+        justify-content: space-between;
+        padding: 2rem 2rem;
+        
+    }
+    .navbar h2{
+        font-size:30px;
+    
+    }
+   
+    .home-nav{
+        font-size: 30px;
+    }
+    
+    
+  
+
+}
