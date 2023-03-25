@@ -17,13 +17,19 @@ Axios
 
 
 Node.js
+
+
 NPM (gerenciador de pacotes do Node.js)
+
+
 React-router-dom
+
+
 Axios
 
 ### Como Rodar o Projeto  
 
-Execulte o comando git clone no seu terminal git.
+Execute o comando git clone no seu terminal git.
 
 
 
