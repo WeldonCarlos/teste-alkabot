@@ -1,15 +1,19 @@
-import { useState } from 'react'
-
-import viteLogo from '/vite.svg'
+import Navbar from "../src/components/navbar/Navbar";
+import { Outlet } from "react-router-dom";
 import './App.css'
 
+
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <div className="App">
-      
-       
+
+      <Navbar/>
+
+      <div className="conteiner">
+        <Outlet />
+      </div>
+
     </div>
   )
 }
